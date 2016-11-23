@@ -1,0 +1,20 @@
+Transform hue/Saturation from black to:
+
+GREEN:
+	120
+	42
+	30
+	
+RED:
+	-2
+	66
+	44
+	
+	-2
+	85
+	38
+	
+YELLOW:
+	44
+	72
+	53
